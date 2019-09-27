@@ -6,7 +6,10 @@ Clojure Playground
 - chmod +x linux-install-1.10.1.469.sh
 - sudo ./linux-install-1.10.1.469.sh
 
-# ide
+# IDE
+## Eclipse
+- http://doc.ccw-ide.org/
+## IntelliJ
 - https://cursive-ide.com/
 
 # book pt-br
