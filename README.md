@@ -9,3 +9,6 @@ Clojure Playground
 # ide
 - https://cursive-ide.com/
 
+# book pt-br
+- https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure
+
