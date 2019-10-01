@@ -15,3 +15,9 @@ Clojure Playground
 # book pt-br
 - https://www.casadocodigo.com.br/products/livro-programacao-funcional-clojure
 
+# tools
+- https://leiningen.org/
+- https://clojars.org/
+- https://boot-clj.com/
+- https://github.com/ring-clojure/ring
+- https://github.com/weavejester/cljfmt
